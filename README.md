@@ -73,6 +73,13 @@
 - **Технологии**: Kotlin, Android, Retrofit, Room.
 - **GitHub**: [memeapp](https://github.com/Fanepka/memeapp)
 
+### 3. **Plydev** 🪪
+Сайт портфолию, на котором можно узнать информацию обо мне и моих проектах
+
+- **Технологии**: FastAPI, JavaScript, CSS, HTML
+- **GitHub**: [plydev](https://github.com/Fanepka/plydev)
+- **Link**: [me.plydev.ru](https://me.plydev.ru)
+
 ---
 
 ## 📊 Статистика GitHub
